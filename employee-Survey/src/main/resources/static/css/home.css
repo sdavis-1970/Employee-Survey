@@ -14,16 +14,25 @@ body{
 }
 
 #answer {
-	font-size: 55px;
+	font-size: 50px;
 	color: #ffffff
 
 }
 #welcome {
-	font-size: 35px;
+	font-size: 30px;
 	color: #ff0000
 }
 #solution {
-	font-size: 55px;
+	font-size: 50px;
 	color: #00ff00
+}
+#techStack {
+	#solution {
+	font-size: 35px;
+	color: #ff00ff
+}
+#stakeholders {
+	font-size: 35px;
+	color: #ff0000
 }
 }

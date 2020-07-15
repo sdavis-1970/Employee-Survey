@@ -22,6 +22,24 @@
 
 <span id="solution">
  Solution: Send out a survey to QA team to get a response and save it for future review.
+ </span><br/><br/>
+ 
+ <span id="techStack">
+ Tech Stack: Will complete project using the following:
+ UI:  Chrome
+ Eclipse IDE
+ Java Springboot with Tomcat
+ git hub
+ CSS
+ DataBase:  Mongo 
+ Email surveys to QA team
+</span><br/><br/>
+
+<span id="stakeholders">
+ Stakeholders: 
+ QA Manager - Barbara
+ </span><br/><br/>
+
 </span>
 </body>
 </html>
