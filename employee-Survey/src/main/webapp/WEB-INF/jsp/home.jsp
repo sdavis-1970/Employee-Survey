@@ -25,10 +25,19 @@
  </span><br/><br/>
  
  <span id="techStack">
- Tech Stack: Will complete project using the following:
- UI:  Chrome,  Eclipse IDE, Java, Springboot with Tomcat, Git Hub, and CSS
- DataBase:  Mongo 
- Email surveys to QA team
+ Tech Stack: <br/>
+ UI:<br/>
+   Chrome<br/>
+   Eclipse IDE <br/>
+   Java<br/>
+   Springboot with Tomcat <br/>
+   Git Hub<br/>
+   CSS<br/>
+   
+   <br/>
+ DataBase:<br/>
+   Mongo 
+ 
 </span><br/><br/>
 
 <span id="stakeholders">
